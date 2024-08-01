@@ -5,7 +5,7 @@ import subprocess
 import asyncio
 import os
 
-TOKEN = "7159151882:AAFgjwgDN_Pun9KKokgZfvZlf4k6ferOPP0"
+TOKEN = "token"
 bot = Bot(TOKEN)
 dp = Dispatcher()
 r = sr.Recognizer()
